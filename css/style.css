@@ -1,0 +1,36 @@
+.screen {
+  padding-left: 550px;
+}
+
+.first_line_buttons {
+  padding-left: 550px;
+}
+
+#heading {
+  padding-left: 620px;
+}
+
+#result {
+  width: 280px;
+  height: 40px;
+}
+
+#Add {
+  width: 70px;
+  height: 30px;
+}
+
+#Sub {
+  width: 70px;
+  height: 30px;
+}
+
+#Mul {
+  width: 70px;
+  height: 30px;
+}
+
+#Div {
+  width: 65px;
+  height: 30px;
+}
